@@ -1,5 +1,5 @@
 # This plugin does require TagAPI
 # TagAPI can be found here http://dev.bukkit.org/bukkit-plugins/tag/
 
-Change Chat Display Name: false
-Remember Names: false
+Change Chat Display Name: true
+Remember Names: true
